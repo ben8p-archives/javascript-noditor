@@ -1,0 +1,16 @@
+{
+    "name": "noditor",
+    "version": "0.1.0",
+    "description": "Server monitoring with NodeJs",
+    "dependencies": {
+        "cpu-usage": "latest",
+        "cpuinfo": "latest",
+        "express": "latest",
+        "loadavg": "latest",
+        "meminfo": "latest",
+        "mysqlinfo": "latest",
+        "nginxinfo": "latest",
+        "socket.io": "latest"
+    },
+    "author": "benjamin santalucia"
+}
